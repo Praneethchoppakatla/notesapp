@@ -14,6 +14,7 @@
 }
 .dark-mode{
   background-color:black;
+  height: 100vh;
 }
 .dark-mode h1{
   background-color: white;
